@@ -1,0 +1,6 @@
+requests
+sqlalchemy
+flask
+flask-socketio==4.3.0
+eventlet
+git+https://bitbucket.org/ShihHsuanChen/jcpyserver.git@v1.4
